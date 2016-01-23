@@ -4,8 +4,8 @@ import (
 	"os"
 
 	"github.com/codegangsta/cli"
-	"github.com/usmanismail/go-messenger/go-auth/app"
-	"github.com/usmanismail/go-messenger/go-auth/logger"
+	"github.com/crackmac/go-messenger/go-auth/app"
+	"github.com/crackmac/go-messenger/go-auth/logger"
 )
 
 func main() {
