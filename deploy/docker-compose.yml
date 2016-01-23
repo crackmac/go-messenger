@@ -10,7 +10,7 @@ auth-service:
     - "db"
     - "-p"
     - "9000"
-    image: usman/go-auth:${auth_version}
+    image: crackmac/go-auth:${auth_version}
     stdin_open: true
     links:
     - mysql-master:db
